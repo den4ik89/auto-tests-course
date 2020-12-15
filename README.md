@@ -1,2 +1,2 @@
-# auto-tests-course
-* Homework storage
+# Auto Tests Course
+* Homework on the course test automation with Selenium
