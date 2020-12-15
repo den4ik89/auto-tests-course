@@ -1,2 +1,2 @@
 # auto-tests-course
-Homework storage
+* Homework storage
